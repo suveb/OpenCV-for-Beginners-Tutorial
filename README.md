@@ -1,8 +1,8 @@
 # OPENCV BASIC PROGRAM
 
-Ans 1. The strategy used to implement the programs are provided in jupyter notebook of their respective folders
+1. The strategy used to implement the programs are provided in jupyter notebook of their respective folders
+2. The Following Topics are covered in the notebooks
 
-Ans 2. I learned a lot of things, firstly i tried and learned the basic progmming in python then i started OpenCV with python which includes
 
         * Drawing geometric shapes
         * Events of Mouse
@@ -19,5 +19,3 @@ Ans 2. I learned a lot of things, firstly i tried and learned the basic progmmin
         * Histograph
         * Morphological Operations
         * Contours
-
-In last i learned markdown and how to use jupyter notebook
