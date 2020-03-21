@@ -1,8 +1,7 @@
 # OPENCV BASIC PROGRAM
 
 1. The strategy used to implement the programs are provided in jupyter notebook of their respective folders
-2. The Following Topics are covered in the notebooks
-
+2. The Following Topics are covered in the notebooks or can be implemented using the theory provided
 
         * Drawing geometric shapes
         * Events of Mouse
